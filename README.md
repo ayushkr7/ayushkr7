@@ -19,7 +19,10 @@
     <img src="https://img.shields.io/badge/-Dev.to-grey?style=flat-square&logo=dev.to&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/ayushkr07">
-    <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HackerRank-brightgreen?style=flat-square&logo=Hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/ayushkr07">
+    <img src="https://img.shields.io/badge/-Codechef-%23723D1D?style=flat-square&logo=Codechef&logoColor=white"/>
   </a>
 </p>
 
