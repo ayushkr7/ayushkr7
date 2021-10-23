@@ -43,6 +43,11 @@
 <br>
 
 <p align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr7&" alt="ayushkr7-streak-count" />
+</p>
+
+
+<p align="center">
 <a href="https://github.com/ayushkr7/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr7&layout=compact" />
 </a>
