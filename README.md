@@ -51,10 +51,10 @@
 <a href="https://github.com/ayushkr7/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr7&layout=compact" />
 </a>
-</p>
-
-<p align="center">
+&nbsp; &nbsp; &nbsp; &nbsp;
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushkr7&show_icons=true&theme=synthwave" />
 </a>
 </p>
+
+![Ayush's GitHub activity graph](https://github-readme-graph.herokuapp.com/graph?username=ayushkr7&hide_border=true&theme=redical)
