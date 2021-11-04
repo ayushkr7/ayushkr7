@@ -1,5 +1,3 @@
 var secrets = {
-  GITHUB_TOKEN : 'BQAjF-hrzt2nmehR2XN4ilqY1tJD72ihfvpH3Sb0nEfv52HHDidZ70_0-M_0uxLnBYOgyxBoFkvPRnWR7HSgW_jFQTHJs7Wt3uJ4n1GLGk19PivVaSQGXJvk7y2dk1GOQH3OajX2nWXVYmHFF5v3RQBIdaZZ1_k
-'
+  GITHUB_TOKEN : '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'
 }
-
