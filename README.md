@@ -3,9 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushkr7&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkr7" /> </p>
 
-<!--
-[![Twitter Follow](https://img.shields.io/twitter/follow/krayush_ak?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=krayush_ak)
--->
 <br>
 
 <p align="center">
@@ -47,6 +44,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr7&layout=compact" />
 </a>
 </p>
+
+
+<h3 align="center">Recent Activity</h3>
+<p  align="center">
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+  
+</p>
+
 
 <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr7&" alt="ayushkr7-streak-count" />
