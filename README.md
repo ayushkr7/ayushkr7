@@ -50,6 +50,11 @@
 <p  align="center">
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#45](https://github.com/ANSHIKA1806/PhotoEditor/pull/45) in [ANSHIKA1806/PhotoEditor](https://github.com/ANSHIKA1806/PhotoEditor)
+2. ❗️ Opened issue [#44](https://github.com/ANSHIKA1806/PhotoEditor/issues/44) in [ANSHIKA1806/PhotoEditor](https://github.com/ANSHIKA1806/PhotoEditor)
+3. 💪 Opened PR [#15](https://github.com/Kate028/Python/pull/15) in [Kate028/Python](https://github.com/Kate028/Python)
+4. ❗️ Opened issue [#5](https://github.com/Palaksharma23/Color-Chooser/issues/5) in [Palaksharma23/Color-Chooser](https://github.com/Palaksharma23/Color-Chooser)
+5. 🗣 Commented on [#2](https://github.com/Kate028/Python/issues/2) in [Kate028/Python](https://github.com/Kate028/Python)
 <!--END_SECTION:activity-->
   
 </p>
