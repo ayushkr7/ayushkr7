@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushkr7&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkr7" /> </p>
 
 <p align="center">
   <a href="http://twitter.com/krayush_ak">
