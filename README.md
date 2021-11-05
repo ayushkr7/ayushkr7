@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushkr7&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkr7" /> </p>
-
 <br>
 
 <p align="center">
@@ -39,15 +37,7 @@
 </p>
 <br>
 
-<p align="center">
-<a href="https://github.com/ayushkr7/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr7&layout=compact" />
-</a>
-</p>
-
-
-<h3 align="center">Recent Activity</h3>
-<p  align="center">
+<details align="center"><summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#45](https://github.com/ANSHIKA1806/PhotoEditor/pull/45) in [ANSHIKA1806/PhotoEditor](https://github.com/ANSHIKA1806/PhotoEditor)
@@ -55,20 +45,26 @@
 3. 💪 Opened PR [#15](https://github.com/Kate028/Python/pull/15) in [Kate028/Python](https://github.com/Kate028/Python)
 4. ❗️ Opened issue [#5](https://github.com/Palaksharma23/Color-Chooser/issues/5) in [Palaksharma23/Color-Chooser](https://github.com/Palaksharma23/Color-Chooser)
 5. 🗣 Commented on [#2](https://github.com/Kate028/Python/issues/2) in [Kate028/Python](https://github.com/Kate028/Python)
-<!--END_SECTION:activity-->
+<!--END_SECTION:activity-->  
+
+</details>
+<br>
+
+<p align="center">
+<a href="https://github.com/ayushkr7/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr7&layout=compact" />
+</a>  
+<p>
+
+  
+<p align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr7&" alt="ayushkr7-streak-count" />
+
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushkr7&show_icons=true&theme=synthwave" />
+</a>
   
 </p>
 
 
-<p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr7&" alt="ayushkr7-streak-count" />
-</p>
-
-<p align="center">
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushkr7&show_icons=true&theme=synthwave" />
-</a>
-</p>
-
 [![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushkr7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
