@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushkr7&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkr7" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushkr7&label=Profile%20views&color=0e75b6&style=flat-square" alt="ayushkr7" /> </p>
+ 
 <p align="center">
   <a href="http://twitter.com/krayush_ak">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
    <a href="https://www.linkedin.com/in/krayush-ak/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://dev.to/@krayush_ak">
-    <img src="https://img.shields.io/badge/-Dev.to-grey?style=flat-square&logo=dev.to&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Dev.to-grey?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/ayushkr07">
-    <img src="https://img.shields.io/badge/-HackerRank-brightgreen?style=flat-square&logo=Hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HackerRank-brightgreen?style=for-the-badge&logo=Hackerrank&logoColor=white"/>
   </a>
   <a href="https://www.codechef.com/users/ayushkr07">
-    <img src="https://img.shields.io/badge/-Codechef-%23723D1D?style=flat-square&logo=Codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Codechef-%23723D1D?style=for-the-badge&logo=Codechef&logoColor=white"/>
   </a>
 </p>
 
@@ -58,13 +58,14 @@
 
   
 <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr7&" alt="ayushkr7-streak-count" />
+<img  width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr7&" alt="ayushkr7-streak-count" />
 
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkr7&show_icons=true&theme=synthwave" />
+  <img width=48% src="https://github-readme-stats.vercel.app/api?username=ayushkr7&show_icons=true&theme=synthwave" />
 </a>
   
 </p>
 
+------
 
-[![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushkr7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushkr7&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
