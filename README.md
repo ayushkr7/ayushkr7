@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1>Hi 👋, I'm Ayush Kumar</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushkr7&label=Profile%20views&color=0e75b6&style=flat-square" alt="ayushkr7" /> </p>
- 
-<p align="center">
+## About 🗣️
+A passionate developer from India<br>
+Currently pursuing undergraduate studies in Computer Science.<br>
+Developing my knowledge in Frontend Development and Competitive Programming.
+<br><br>
+<img align="right" height=50% width=50% src="https://user-images.githubusercontent.com/51288637/145442809-8e448de6-a6c7-4ea9-ba5a-3647a2b85784.png" />
+
+<p>
   <a href="http://twitter.com/krayush_ak">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
@@ -23,8 +27,8 @@
 
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+## Languages and Tools 📝:
+<p> 
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -35,10 +39,14 @@
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
+<p>
+<a href="https://github.com/ayushkr7/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr7&layout=compact" />
+</a>  
+<p>
 <br>
 
-<details align="center"><summary>:zap: Recent Activity</summary>
-  
+## :zap: Recent Activity  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#57](https://github.com/ritwickdey/vscode-live-server/issues/57) in [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
 2. 💪 Opened PR [#45](https://github.com/ANSHIKA1806/PhotoEditor/pull/45) in [ANSHIKA1806/PhotoEditor](https://github.com/ANSHIKA1806/PhotoEditor)
@@ -47,25 +55,16 @@
 5. ❗️ Opened issue [#5](https://github.com/Palaksharma23/Color-Chooser/issues/5) in [Palaksharma23/Color-Chooser](https://github.com/Palaksharma23/Color-Chooser)
 <!--END_SECTION:activity-->  
 
-</details>
 <br>
-
-<p align="center">
-<a href="https://github.com/ayushkr7/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr7&layout=compact" />
-</a>  
-<p>
-
-  
+ 
+## Stats 📈
+<p align="center"> <img width=180px src="https://komarev.com/ghpvc/?username=ayushkr7&label=Profile%20views&color=red&style=flat-square" alt="ayushkr7" /> </p>
 <p align="center">
 <img  width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr7&" alt="ayushkr7-streak-count" />
-
-<a>
-  <img width=48% src="https://github-readme-stats.vercel.app/api?username=ayushkr7&show_icons=true&theme=synthwave" />
-</a>
-  
+<img width=48% src="https://github-readme-stats.vercel.app/api?username=ayushkr7&show_icons=true&theme=synthwave" />
 </p>
 
-------
+<br>
 
+## Contribution Graph 📊
 [![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushkr7&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
