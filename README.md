@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Ayush Kumar</h1>
 
 ## About 🗣️
-A passionate developer from India<br>
-Currently pursuing undergraduate studies in Computer Science.<br>
-Developing my knowledge in Frontend Development and Competitive Programming.
+- A passionate developer from India<br>
+- Currently pursuing undergraduate studies in Computer Science.<br>
+- Developing my knowledge in Frontend Development and Competitive Programming.
 <br><br>
 <img align="right" height=50% width=50% src="https://user-images.githubusercontent.com/51288637/145442809-8e448de6-a6c7-4ea9-ba5a-3647a2b85784.png" />
 
@@ -58,11 +58,18 @@ Developing my knowledge in Frontend Development and Competitive Programming.
 <br>
  
 ## Stats 📈
-<p align="center"> <img width=180px src="https://komarev.com/ghpvc/?username=ayushkr7&label=Profile%20views&color=red&style=flat-square" alt="ayushkr7" /> </p>
+<p align="center"> <img width=140px src="https://komarev.com/ghpvc/?username=ayushkr7&label=Profile%20views&color=red&style=flat-square" alt="ayushkr7" /> </p>
 <p align="center">
 <img  width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr7&" alt="ayushkr7-streak-count" />
 <img width=48% src="https://github-readme-stats.vercel.app/api?username=ayushkr7&show_icons=true&theme=synthwave" />
 </p>
+
+<br>
+
+## Milestone 🏆
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushkr7&column=7&theme=onedark" />
+</div>
 
 <br>
 
