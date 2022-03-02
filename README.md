@@ -3,7 +3,7 @@
 ## About 🗣️
 - A passionate developer from India<br>
 - Currently pursuing undergraduate studies in Computer Science.<br>
-- Expanding my knowledge in Frontend Development and Competitive Programming.
+- Expanding my knowledge in Frontend Development and Data Analysis.
 <br><br>
 <img align="right" height=50% width=50% src="https://user-images.githubusercontent.com/51288637/145442809-8e448de6-a6c7-4ea9-ba5a-3647a2b85784.png" />
 
