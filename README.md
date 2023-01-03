@@ -61,7 +61,7 @@
 <p align="center"> <img width=140px src="https://komarev.com/ghpvc/?username=ayushkr7&label=Profile%20views&color=red&style=flat-square" alt="ayushkr7" /> </p>
 <p align="center">
 <img  width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr7&" alt="ayushkr7-streak-count" />
-<img width=48% src="https://github-readme-stats.vercel.app/api?username=ayushkr7&show_icons=true&theme=synthwave" />
+<img width=48% src="https://github-readme-stats.vercel.app/api?username=ayushkr7&show_icons=true&theme=radical" />
 </p>
 
 <br>
