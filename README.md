@@ -56,7 +56,8 @@
 <!--END_SECTION:activity-->  
 
 <br>
- 
+
+<!--
 ## Stats 📈
 <p align="center"> <img width=140px src="https://komarev.com/ghpvc/?username=ayushkr7&label=Profile%20views&color=red&style=flat-square" alt="ayushkr7" /> </p>
 <p align="center">
@@ -75,3 +76,5 @@
 
 ## Contribution Graph 📊
 [![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushkr7&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+-->
