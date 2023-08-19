@@ -36,6 +36,11 @@
 <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
 </p>
 
+<p>
+<a href="https://github.com/ayushkr7/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr7&layout=compact" />
+</a>  
+</p>
 <br>
 
 <!--
@@ -51,11 +56,7 @@
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-<p>
-<a href="https://github.com/ayushkr7/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr7&layout=compact" />
-</a>  
-<p>
+
 <br>
 -->
 
