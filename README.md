@@ -62,7 +62,7 @@
 
 ## :zap: Recent Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/ritwickdey/vscode-live-server/issues/57) in [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server)
+1. 💪 Opened PR [#24](https://github.com/sarthak-margdarshak/sarthak-admin/pull/24) in [sarthak-margdarshak/sarthak-admin](https://github.com/sarthak-margdarshak/sarthak-admin)
 2. 💪 Opened PR [#45](https://github.com/ANSHIKA1806/PhotoEditor/pull/45) in [ANSHIKA1806/PhotoEditor](https://github.com/ANSHIKA1806/PhotoEditor)
 3. ❗️ Opened issue [#44](https://github.com/ANSHIKA1806/PhotoEditor/issues/44) in [ANSHIKA1806/PhotoEditor](https://github.com/ANSHIKA1806/PhotoEditor)
 4. 💪 Opened PR [#15](https://github.com/Kate028/Python/pull/15) in [Kate028/Python](https://github.com/Kate028/Python)
