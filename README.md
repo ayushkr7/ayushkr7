@@ -1,10 +1,8 @@
 <h1>Hi 👋, I'm Ayush Kumar</h1>
 
-## About 🗣️
-- A passionate fullstack developer from India<br>
-- Working on MERN(MongoDB, Express.js, React.js, Node.js) stack.<br>
-- Expanding my knowledge of Data structures and Algorithms.
-<img align="right" height=50% width=50% src="https://user-images.githubusercontent.com/51288637/145442809-8e448de6-a6c7-4ea9-ba5a-3647a2b85784.png" />
+<!-- ## About 🗣️ -->
+Software developer from India passionate about building web applications, solving problems, and learning how systems work under the hood.
+<!-- <img align="right" height=50% width=50% src="https://user-images.githubusercontent.com/51288637/145442809-8e448de6-a6c7-4ea9-ba5a-3647a2b85784.png" /> -->
 
 <br>
 <!--
@@ -78,9 +76,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="http://twitter.com/krayush_ak">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://dev.to/@krayush_ak">
+  <!-- <a href="https://dev.to/@krayush_ak">
     <img src="https://img.shields.io/badge/-Dev.to-grey?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/ayushkr07">
@@ -88,7 +86,7 @@
   </a>
   <a href="https://www.codechef.com/users/ayushkr07">
     <img src="https://img.shields.io/badge/-Codechef-%23723D1D?style=for-the-badge&logo=Codechef&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
 
 <!--
