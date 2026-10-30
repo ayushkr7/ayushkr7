@@ -37,7 +37,7 @@ x<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-squ
 
 <p>
 <a href="https://github.com/ayushkr7/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr7&layout=compact" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayushkr7&layout=compact" />
 </a>  
 </p>
 <br>
